@@ -1,6 +1,7 @@
 # Layers of Meaning
 
 A data-driven visualization project exploring how thematic focus differed between official publications and street broadsides in Scotland from 1800 to 1850.
+
 [View Full Project PDF](./Layers_of_meaning.pdf)
 
 [Watch Demo Video](https://youtu.be/mw0BRKU2h9o?si=3zQ5htFdNoSL9hHi)
